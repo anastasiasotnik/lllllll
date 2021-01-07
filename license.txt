@@ -1,0 +1,11 @@
+Model Information:
+* title:	Google NYC - Office Views (360)
+* source:	https://sketchfab.com/3d-models/google-nyc-office-views-360-beb1aedb3e8e4e51b117771867af6cd7
+* author:	Guillermo (https://sketchfab.com/guillermosainz)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Google NYC - Office Views (360)" (https://sketchfab.com/3d-models/google-nyc-office-views-360-beb1aedb3e8e4e51b117771867af6cd7) by Guillermo (https://sketchfab.com/guillermosainz) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
